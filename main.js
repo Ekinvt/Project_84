@@ -3,13 +3,13 @@ ctx = canvas.getContext("2d");
 background_image = "racing.png";
 
 car1_width = 130;
-car1_height = 60;
+car1_height = 80;
 car1_image = "car1.jpeg";
 car1_x = 10;
 car1_y = 10;
 
 car2_width = 130;
-car2_height = 60;
+car2_height = 80;
 car2_image = "car2.png";
 car2_x = 10;
 car2_y = 100;
