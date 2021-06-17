@@ -8,9 +8,9 @@ car1_image = "car1.jpeg";
 car1_x = 10;
 car1_y = 10;
 
-car2_width = 130;
-car2_height = 80;
-car2_image = "car2.png";
+car2_width = 150;
+car2_height = 75;
+car2_image = "car2.jpeg";
 car2_x = 10;
 car2_y = 100;
 
